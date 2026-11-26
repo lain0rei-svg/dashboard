@@ -1,0 +1,211 @@
+[
+  {
+    "id": "us",
+    "name": "摩根美国基金",
+    "code": "IPFD2347",
+    "share": "人民币对冲 · A类累计",
+    "currency": "CNY",
+    "source": "https://www.hsbc.com.cn/content/dam/hsbc/cn/docs/investment/qdii/2343.pdf",
+    "match": null,
+    "note": "汇丰披露的底层份额月报净值，自动来源待核",
+    "bank": "汇丰中国",
+    "verification": "PARTIAL",
+    "distributing": false,
+    "state": "snapshot",
+    "checkedAt": null,
+    "history": [
+      {
+        "date": "2026-08-31",
+        "nav": "16.72",
+        "source": "https://www.hsbc.com.cn/content/dam/hsbc/cn/docs/investment/qdii/2343.pdf",
+        "daily": null,
+        "retrievedAt": "2026-11-19T04:17:01Z"
+      }
+    ]
+  },
+  {
+    "id": "asia-cny",
+    "name": "摩根亚洲股息基金",
+    "code": "968048",
+    "share": "人民币非对冲 · 累计",
+    "currency": "CNY",
+    "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968048",
+    "match": "摩根亚洲股息基金-人民币非对冲-累计",
+    "note": "汇丰基金搜索易",
+    "bank": "汇丰中国",
+    "verification": "PARTIAL",
+    "distributing": false,
+    "state": "snapshot",
+    "checkedAt": null,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "nav": "18.37",
+        "source": "https://fundsresearch.investments.hsbc.com.cn/RBWM/Quickrank.aspx?page=105",
+        "daily": -0.22,
+        "retrievedAt": "2026-11-19T04:17:01Z"
+      },
+      {
+        "date": "2026-11-17",
+        "nav": "17.76",
+        "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/QuickRank.aspx?fund=968&page=4",
+        "daily": -1.61,
+        "retrievedAt": "2026-11-19T04:17:01Z"
+      }
+    ]
+  },
+  {
+    "id": "asia-usd",
+    "name": "摩根亚洲股息基金",
+    "code": "968046",
+    "share": "美元 · 累计",
+    "currency": "USD",
+    "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968046",
+    "match": "摩根亚洲股息基金-美元-累计",
+    "note": "汇丰基金搜索易",
+    "bank": "汇丰中国",
+    "verification": "PARTIAL",
+    "distributing": false,
+    "state": "snapshot",
+    "checkedAt": null,
+    "history": [
+      {
+        "date": "2026-11-13",
+        "nav": "18.45",
+        "source": "https://fundsresearch.investments.hsbc.com.cn/RBWM/Quickrank.aspx?page=105",
+        "daily": -0.27,
+        "retrievedAt": "2026-11-19T04:17:01Z"
+      },
+      {
+        "date": "2026-11-17",
+        "nav": "17.86",
+        "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/QuickRank.aspx?fund=968&page=4",
+        "daily": -1.65,
+        "retrievedAt": "2026-11-19T04:17:01Z"
+      }
+    ]
+  },
+  {
+    "id": "bond",
+    "name": "摩根国际债券基金",
+    "code": "968054",
+    "share": "美元 · 累计（暂选）",
+    "currency": "USD",
+    "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968054",
+    "match": "摩根国际债券基金-美元-累计",
+    "note": "暂选 968054，另有美元每月派息及 QDII 分派份额",
+    "bank": "汇丰中国",
+    "verification": "PARTIAL",
+    "distributing": false,
+    "state": "snapshot",
+    "checkedAt": null,
+    "history": [
+      {
+        "date": "2026-09-09",
+        "nav": "10.98",
+        "source": "https://fundsresearch.investments.hsbc.com.cn/RBWM/Overview.aspx?code=968054",
+        "daily": -0.18,
+        "retrievedAt": "2026-11-19T04:20:00Z"
+      },
+      {
+        "date": "2026-11-05",
+        "nav": "11.04",
+        "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968054",
+        "daily": 0.36,
+        "retrievedAt": "2026-11-19T04:17:01Z"
+      },
+      {
+        "date": "2026-11-13",
+        "nav": "10.94",
+        "source": "https://fundsresearch.investments.hsbc.com.cn/RBWM/Quickrank.aspx?page=106",
+        "daily": -0.36,
+        "retrievedAt": "2026-11-19T04:20:00Z"
+      },
+      {
+        "date": "2026-11-17",
+        "nav": "10.94",
+        "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/QuickRank.aspx?fund=968&page=4",
+        "daily": 0.0,
+        "retrievedAt": "2026-11-19T04:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "blackrock",
+    "name": "贝莱德智慧数据环球股票高息基金",
+    "code": "IPFD2116 / IPFD3116",
+    "share": "美元 · A6 分派",
+    "currency": "USD",
+    "source": "https://www.hsbc.com.cn/content/dam/hsbc/cn/docs/investment/qdii/2116.pdf",
+    "match": null,
+    "note": "贝莱德底层份额快照，完整分派记录待核",
+    "bank": "汇丰中国",
+    "verification": "PARTIAL",
+    "distributing": true,
+    "state": "snapshot",
+    "checkedAt": null,
+    "history": [
+      {
+        "date": "2026-09-11",
+        "nav": "9.99",
+        "source": "https://www.blackrock.com/ch/professionals/en/products/270404/blackrock-systematic-global-equity-high-income-fund",
+        "daily": 0.81,
+        "retrievedAt": "2026-11-19T04:17:01Z"
+      }
+    ]
+  },
+  {
+    "id": "xintian",
+    "name": "工银理财·鑫添益90天持盈固定收益类开放式理财产品",
+    "code": "20GS2162",
+    "share": "人民币 · 公募开放式",
+    "currency": "CNY",
+    "source": "https://image.mybank.icbc.com.cn/picture/Perfinancingproduct/20GS2162.pdf",
+    "match": null,
+    "note": "官方说明书已核，净值来源待核",
+    "bank": "工商银行",
+    "verification": "PARTIAL",
+    "distributing": false,
+    "state": "unavailable",
+    "checkedAt": null,
+    "history": [
+
+    ]
+  },
+  {
+    "id": "xinzun",
+    "name": "工银理财鑫尊利固收类3个月定开理财产品（科创优选）",
+    "code": "20GS3116（待核）",
+    "share": "份额待核",
+    "currency": null,
+    "source": null,
+    "match": null,
+    "note": "尚未找到同时匹配名称与代码的官方披露",
+    "bank": "工商银行",
+    "verification": "FAIL",
+    "distributing": false,
+    "state": "unavailable",
+    "checkedAt": null,
+    "history": [
+
+    ]
+  },
+  {
+    "id": "hengrui",
+    "name": "工银理财恒睿睿混合类3个月定期开放式理财产品1号",
+    "code": null,
+    "share": "份额待核",
+    "currency": null,
+    "source": null,
+    "match": null,
+    "note": "近名产品的登记编码待官方确认",
+    "bank": "工商银行",
+    "verification": "FAIL",
+    "distributing": false,
+    "state": "unavailable",
+    "checkedAt": null,
+    "history": [
+
+    ]
+  }
+]
