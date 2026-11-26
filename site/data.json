@@ -35,8 +35,8 @@
     "bank": "汇丰中国",
     "verification": "PARTIAL",
     "distributing": false,
-    "state": "updated",
-    "checkedAt": "2026-11-26T08:45:06+00:00",
+    "state": "unchanged",
+    "checkedAt": "2026-11-26T20:12:07+00:00",
     "history": [
       {
         "date": "2026-11-13",
@@ -73,8 +73,8 @@
     "bank": "汇丰中国",
     "verification": "PARTIAL",
     "distributing": false,
-    "state": "updated",
-    "checkedAt": "2026-11-26T08:45:06+00:00",
+    "state": "unchanged",
+    "checkedAt": "2026-11-26T20:12:07+00:00",
     "history": [
       {
         "date": "2026-11-13",
@@ -111,8 +111,8 @@
     "bank": "汇丰中国",
     "verification": "PARTIAL",
     "distributing": false,
-    "state": "updated",
-    "checkedAt": "2026-11-26T08:45:06+00:00",
+    "state": "unchanged",
+    "checkedAt": "2026-11-26T20:12:07+00:00",
     "history": [
       {
         "date": "2026-09-09",
