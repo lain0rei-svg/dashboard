@@ -35,8 +35,8 @@
     "bank": "汇丰中国",
     "verification": "PARTIAL",
     "distributing": false,
-    "state": "unchanged",
-    "checkedAt": "2026-11-26T20:12:07+00:00",
+    "state": "updated",
+    "checkedAt": "2026-11-27T09:41:04+00:00",
     "history": [
       {
         "date": "2026-11-13",
@@ -58,6 +58,13 @@
         "daily": -2.53,
         "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968048",
         "retrievedAt": "2026-11-26T08:45:06+00:00"
+      },
+      {
+        "date": "2026-11-26",
+        "nav": "17.15",
+        "daily": 1.18,
+        "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968048",
+        "retrievedAt": "2026-11-27T09:41:04+00:00"
       }
     ]
   },
@@ -73,8 +80,8 @@
     "bank": "汇丰中国",
     "verification": "PARTIAL",
     "distributing": false,
-    "state": "unchanged",
-    "checkedAt": "2026-11-26T20:12:07+00:00",
+    "state": "updated",
+    "checkedAt": "2026-11-27T09:41:04+00:00",
     "history": [
       {
         "date": "2026-11-13",
@@ -96,6 +103,13 @@
         "daily": -2.63,
         "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968046",
         "retrievedAt": "2026-11-26T08:45:06+00:00"
+      },
+      {
+        "date": "2026-11-26",
+        "nav": "17.26",
+        "daily": 1.35,
+        "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968046",
+        "retrievedAt": "2026-11-27T09:41:04+00:00"
       }
     ]
   },
@@ -111,8 +125,8 @@
     "bank": "汇丰中国",
     "verification": "PARTIAL",
     "distributing": false,
-    "state": "unchanged",
-    "checkedAt": "2026-11-26T20:12:07+00:00",
+    "state": "updated",
+    "checkedAt": "2026-11-27T09:41:04+00:00",
     "history": [
       {
         "date": "2026-09-09",
@@ -148,6 +162,13 @@
         "daily": 0.18,
         "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968054",
         "retrievedAt": "2026-11-26T08:45:06+00:00"
+      },
+      {
+        "date": "2026-11-26",
+        "nav": "11.04",
+        "daily": 0.0,
+        "source": "https://fundsresearch.investments.hsbc.com.cn/rbwm/Overview.aspx?code=968054",
+        "retrievedAt": "2026-11-27T09:41:04+00:00"
       }
     ]
   },
